@@ -81,7 +81,7 @@ diamondGroup = new Group();
 
 score = 0
 wall1.visible = false;
-wall2.visible = true;
+wall2.visible = false;
 }
 
 function draw() {
